@@ -88,7 +88,9 @@ Termux
 ADB
 VS Code
 ```
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,vscode"/>
+</p>
 ---
 
 ## documentation.philosophy
