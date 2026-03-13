@@ -37,7 +37,7 @@ Status:      Learning and shipping projects
 
 ---
 
-## active.projects
+## projects.experiment
 
 ### Mouse Trail App
 
@@ -48,7 +48,7 @@ https://github.com/the-arhan/MTrailApp
 
 ---
 
-### Android Debloat Guide
+### Android Debloat Guide --UPCOMING--
 
 Documentation for safely removing unnecessary Android system apps.
 
@@ -61,7 +61,7 @@ Includes
 
 ---
 
-### Termux Linux Experiments
+### Termux Linux Experiments --UPCOMING--
 
 Exploring Linux-style workflows directly on Android.
 
