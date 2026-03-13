@@ -139,6 +139,9 @@ Every guide includes:
 GitHub
 https://github.com/the-arhan
 
+Instagram
+https://instagram.com/the.arhan_
+
 YouTube
 coming soon
 
