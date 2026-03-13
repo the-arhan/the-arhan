@@ -1,5 +1,9 @@
 <!-- ================= HEADER ================= -->
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=building+tools;documenting+experiments;learning+systems&center=true&width=500&height=45">
+</p>
+
 <h1 align="center">arhan.exe</h1>
 
 <p align="center">
