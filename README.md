@@ -77,13 +77,15 @@ Examples
 
 ```
 Languages
-C++
+C
 Python
+HTML
+CSS
+JS
 Bash
 
 Tools
 Linux
-Git
 Termux
 ADB
 VS Code
